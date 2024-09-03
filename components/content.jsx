@@ -1,6 +1,5 @@
 import { useState } from "react";
 import React from "react";
-import Language from "./language";
 
 const Content = () => {
     const [isFlipped, setIsFlipped] = useState(false);
